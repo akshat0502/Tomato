@@ -47,16 +47,15 @@ Currently, two official plugins are available:
             </li>
 </ol>
 
-<h2></h2>
-        <h2>Folder Structure:</h2>
-        <pre><code>
-food-delivery-app/
-├── public/       // Static files (e.g., index.html)
-├── src/          // React components, styles, and logic
-│   ├── components/  // Reusable UI components
-│   ├── App.js       // Main app component
-│   ├── index.js     // Entry point
-├── package.json  // Project dependencies and scripts
+<h2>Folder Structure:</h2>
+
+Tomato/<br>
+├── public/       // Static files (e.g., index.html)<br>
+├── src/          // React components, styles, and logic<br>
+│   ├── components/  // Reusable UI components<br>
+│   ├── App.js       // Main app component<br>
+│   ├── index.js     // Entry point<br>
+├── package.json  // Project dependencies and scripts<br>
 
 <h2>Tips:</h2>
   <ul>
