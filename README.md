@@ -1,6 +1,7 @@
 <h1><a href="https://tomato-chi-steel.vercel.app/">Tomato</a></h1>
 
 <p>Tomato is a React.js-based web application designed to simplify food delivery and bring delicious meals to your doorstep. With its user-friendly interface, the platform ensures a smooth and enjoyable experience across all devices.</p>
+<p>Users can explore a wide range of restaurants, browse menus, and filter options by cuisine, price, or dietary preferences. The seamless ordering system allows users to add items to their cart, customize orders, and track deliveries in real-time.</p>
 
 # React + Vite
 
