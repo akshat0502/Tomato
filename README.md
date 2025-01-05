@@ -1,4 +1,7 @@
 <h1><a href="https://tomato-chi-steel.vercel.app/">Tomato</a></h1>
+
+<p>Tomato is a React.js-based web application designed to simplify food delivery and bring delicious meals to your doorstep. With its user-friendly interface, the platform ensures a smooth and enjoyable experience across all devices.</p>
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
